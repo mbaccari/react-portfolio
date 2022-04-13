@@ -11,14 +11,14 @@ const dataportfolio = [{
     {
         img: "https://picsum.photos/600/451/?grayscale",
         description: "Join in",
-        link: "#",
-        github:""
+        link: "https://join-in-app.herokuapp.com/signup",
+        github:"https://github.com/kelseybrianne/full-stack-app"
     },
     {
         img: "https://picsum.photos/600/452/?grayscale",
         description: "Grill: Food and friends",
-        link: "#",
-        github:""
+        link: "https://mbaccari.github.io/Grill/",
+        github:"https://github.com/mbaccari/Grill"
     },
     {
         img: "https://picsum.photos/600/449/?grayscale",
