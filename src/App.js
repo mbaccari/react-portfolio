@@ -1,18 +1,16 @@
-import logo from './logo.svg';
-import MainBio from './components/MainBio'
-import Navbar from './components/Navbar'
-import PortfolioGrid from './components/portfolioGrid';
+import MainBio from './components/pages/MainBio'
+import PortfolioGrid from './components/pages/portfolioGrid';
+import Footer from './components/pages/Footer';
+import PortfolioContainer from './components/PortfolioContainer';
 
 function App() {
   return (
-    <>
-      <Navbar/>
+    <div style={{width: "100vw"}} className="d-flex flex-column justify-content-between min-vh-100">
+      <PortfolioContainer/>
 
-      <MainBio/>
 
-      <PortfolioGrid/>
-
-    </>
+      <Footer />
+    </div>
   );
 }
 
