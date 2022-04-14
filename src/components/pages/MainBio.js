@@ -8,7 +8,7 @@ function MainBio() {
         <div className='container'>
           <div className="row text-center text-dark">
             <div className="col-xs-12">
-              <img src="https://placekitten.com/g/200/200" alt=" Meee"/>
+              <img src="https://www.billboard.com/wp-content/uploads/media/Rivers-Cuomo-bb21-2019-feat-billboard-sigmtce-1548.jpg?w=1024" alt=" Meee"/>
             </div>
             <div className="col">
               <p className="h1">
