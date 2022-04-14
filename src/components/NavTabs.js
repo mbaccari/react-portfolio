@@ -5,16 +5,16 @@ import resume from '../assets/resume.PDF'
 function NavTabs({ currentPage, handlePageChange }) {
     return (
 
-        <header className=" container navbar navbar-light bg-light d-flex align-items-center justify-content-center text-center">
+        <header className=" container navbar navbar-dark bg-dark d-flex align-items-center justify-content-center text-center min-vw-100 text-light">
 
-            <a className=" navbar-brand display-4" id="name" href="#">
+            <a className=" navbar-brand display-4 text-secondary" id="name" href="">
                 Marshall Baccari
             </a>
 
             <ul className="mx-4 navbar-nav list-group-horizontal col">
 
                 {/* About me */}
-                <li className="nav-item px-1 col-md-3 col-xs-3">
+                <li className="nav-item col-md-3 col-xs-3">
                     <a
                         href="#About"
                         onClick={() => handlePageChange('About')}
@@ -25,7 +25,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 </li>
 
                 {/* Portfolio */}
-                <li className="nav-item px-1 col-md-3 col-xs-3">
+                <li className="nav-item col-md-3 col-xs-3">
                     <a
                         href="#Portfolio"
                         onClick={() => handlePageChange('Portfolio')}
@@ -36,14 +36,14 @@ function NavTabs({ currentPage, handlePageChange }) {
                 </li>
 
                 {/* Resume */}
-                <li className="nav-item px-1 col-md-3 col-xs-3">
+                <li className="nav-item col-md-3 col-xs-3">
                     <a className='nav-link' key={ "resume" } href={ resume } target='_blank'>
                         Resume
                     </a>
                 </li>
 
                 {/* Contact */}
-                <li className="nav-item px-1 col-md-3 col-xs-3">
+                <li className="nav-item col-md-3 col-xs-3">
                     <a
                         href="#Contact"
                         onClick={() => handlePageChange('Contact')}

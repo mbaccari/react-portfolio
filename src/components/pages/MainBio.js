@@ -6,7 +6,7 @@ function MainBio() {
             <hr className="t_border my-4 ml-0 text-left" />
 
         <div className='container'>
-          <div className="row text-center">
+          <div className="row text-center text-dark">
             <div className="col-xs-12">
               <img src="https://placekitten.com/g/200/200" alt=" Meee"/>
             </div>
@@ -17,6 +17,9 @@ function MainBio() {
 
               <p className="lead">
                 I'm a Full Stack Developer working in the Pacific Northwest.
+              </p>
+              <p>
+                Ready for new opportunities in the world of Web development.
               </p>
             </div>
           </div>

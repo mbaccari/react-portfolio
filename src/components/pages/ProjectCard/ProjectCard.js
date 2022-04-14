@@ -30,7 +30,7 @@ export const Portfolio = () => {
                     <p className='text-light' id="projectDesc">{data.description}</p>
                     <div className="container mt-5">
                         <a className="mx-2 text-light text-decoration-none" href={data.link} target='_blank'>View project</a>
-                        <a className="mx-2 text-light text-decoration-none" href={data.link} target='_blank'>View code</a>
+                        <a className="mx-2 text-light text-decoration-none" href={data.github} target='_blank'>View code</a>
                     </div>
                     </div>
                 </div>
