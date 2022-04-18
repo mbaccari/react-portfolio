@@ -21,7 +21,10 @@ function MainBio() {
                 I'm a Full Stack Developer working in the Pacific Northwest.
               </p>
               <p>
-                Ready for new opportunities in the world of Web development.
+                I just finished a 24 week full stack bootcamp at the University of Washington.
+              </p>
+              <p>
+                Looking forward to new opportunities in the world of Web development.
               </p>
             </div>
           </div>

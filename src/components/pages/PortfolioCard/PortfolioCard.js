@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProjectCard.css";
+import "./PortfolioCard.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataportfolio, meta } from "../../../data/content_option";

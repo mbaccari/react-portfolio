@@ -1,6 +1,4 @@
-import MainBio from './components/pages/MainBio'
-import PortfolioGrid from './components/pages/portfolioGrid';
-import Footer from './components/pages/Footer';
+import Footer from './components/Footer';
 import PortfolioContainer from './components/PortfolioContainer';
 
 function App() {

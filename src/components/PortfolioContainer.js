@@ -1,9 +1,7 @@
 import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import MainBio from './pages/MainBio';
-import { Portfolio } from './pages/ProjectCard/ProjectCard';
-import Resume from './pages/resume.PDF'
-import SinglePage from './pages/single-page';
+import { Portfolio } from './pages/PortfolioCard/PortfolioCard';
 import ContactUs from './pages/email';
 
 export default function PortfolioContainer() {
