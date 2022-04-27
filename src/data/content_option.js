@@ -12,8 +12,8 @@ const meta = {
 const dataportfolio = [{
         img: construction,
         description: "I choose you (in development)",
-        link: "#",
-        github:""
+        link: "https://i-choose-you-inator.herokuapp.com/",
+        github:"https://github.com/cavazosdotcom/i-choose-you"
     },
     {
         img: join,
