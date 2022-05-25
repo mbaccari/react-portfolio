@@ -11,7 +11,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                 Marshall Baccari
             </a>
 
-            <ul className="mx-4 navbar-nav list-group-horizontal col">
+            <ul className="navbar-nav list-group-horizontal col" style={{justifyContent: "space-around"}}>
 
                 {/* About me */}
                 <li className="nav-item col-md-3 col-xs-3">
