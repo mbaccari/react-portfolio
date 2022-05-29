@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7c317362.css",
-    "main.js": "/react-portfolio/static/js/main.71254685.js",
+    "main.css": "/react-portfolio/static/css/main.4f50f990.css",
+    "main.js": "/react-portfolio/static/js/main.2373911d.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/me.jpg": "/react-portfolio/static/media/me.c44d5aef684f7b58d5ac.jpg",
     "static/media/joinIn.png": "/react-portfolio/static/media/joinIn.647791b2854a5426da77.png",
-    "static/media/construction.png": "/react-portfolio/static/media/construction.6da560ee3dad9aa4bdc8.png",
     "static/media/bootstrap-icons.woff?": "/react-portfolio/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/react-portfolio/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "static/media/resume.PDF": "/react-portfolio/static/media/resume.7c2198c2982e20386fc1.PDF",
+    "static/media/pokemon.png": "/react-portfolio/static/media/pokemon.c8489dba9fc223838fab.png",
     "static/media/grill.png": "/react-portfolio/static/media/grill.a073992e897d8c3b0408.png",
     "static/media/notes.png": "/react-portfolio/static/media/notes.4e0b0ebc519cec1c61e7.png",
     "index.html": "/react-portfolio/index.html",
-    "main.7c317362.css.map": "/react-portfolio/static/css/main.7c317362.css.map",
-    "main.71254685.js.map": "/react-portfolio/static/js/main.71254685.js.map",
+    "main.4f50f990.css.map": "/react-portfolio/static/css/main.4f50f990.css.map",
+    "main.2373911d.js.map": "/react-portfolio/static/js/main.2373911d.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c317362.css",
-    "static/js/main.71254685.js"
+    "static/css/main.4f50f990.css",
+    "static/js/main.2373911d.js"
   ]
 }
