@@ -1,4 +1,4 @@
-import construction from '../assets/construction.png';
+import pokemon from '../assets/pokemon.png';
 import join from '../assets/joinIn.png';
 import grill from '../assets/grill.png';
 import notes from '../assets/notes.png'
@@ -10,7 +10,7 @@ const meta = {
 
 
 const dataportfolio = [{
-        img: construction,
+        img: pokemon,
         description: "I choose you (in development)",
         link: "https://i-choose-you-inator.herokuapp.com/",
         github:"https://github.com/cavazosdotcom/i-choose-you"
