@@ -19,16 +19,14 @@ body {
 .btn {
   border: 5px solid;
   border-image-slice: 1;
-  background: #9FA6B2 !important;
-  -webkit-background-clip: text !important;
-  -webkit-text-fill-color: transparent !important;
+  color: black;
+  background: #898e96 !important;
   text-decoration: none;
   transition: all .4s ease;
 }
 
 .btn:hover, .btn:focus {
-  background: #9FA6B2 !important;
-  -webkit-background-clip: none !important;
+  background: #292b2c !important;
   -webkit-text-fill-color: #fff !important;
   box-shadow: #222 1px 0 10px;
   text-decoration: underline;
