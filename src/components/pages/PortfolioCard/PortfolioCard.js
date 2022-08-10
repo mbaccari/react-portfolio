@@ -46,7 +46,7 @@ export const Portfolio = () => {
                 return (
                     <div key={i} className="card col-lg-4 col-md-6 col-sm-6 col-xs-12 mx-auto bg-transparent border-0 text-center p-5" >
                       <img src={data.img} className="card-img-top" alt="..." />
-                      <div className="card-body bg-dark">
+                      <div className="card-body bg-dark d-flex flex-column justify-content-between ">
                         <h5 className="card-title">{data.name}</h5>
                         <h6 className="card-subtitle mb-2 text-muted">{data.sub}</h6>
                         <p className="card-text">{data.description}</p>
@@ -64,9 +64,9 @@ export const Portfolio = () => {
                         
                           
 
-                        <div className="text-center pb-0 mb-0">
-                          { data.link ? <a href={data.link} className="btn mr-2"><i className="fas fa-link" /> Visit Site</a> : ''}
-                          { data.github ? <a href={data.github} className="btn mr-2"><i className="fas fa-link" /> Github</a> : ''}
+                        <div className="d-flex justify-content-around align-items-center text-center">
+                          { data.link ? <a href={data.link} className="btn"><i className="fas fa-link" /> Visit Site</a> : ''}
+                          { data.github ? <a href={data.github} className="btn"><i className="fas fa-link" /> Github</a> : ''}
                         </div>
                       </div>
                     </div>
