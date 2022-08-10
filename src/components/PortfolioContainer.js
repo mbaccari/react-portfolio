@@ -12,7 +12,7 @@ export default function PortfolioContainer() {
     if (currentPage === 'About') {
       return <MainBio />;
     }
-    if (currentPage === 'Portfolio') {
+    if (currentPage === 'Projects') {
         return <Portfolio />;
       }
     else  {
