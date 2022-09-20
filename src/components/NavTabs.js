@@ -1,6 +1,6 @@
 import React from 'react';
 
-import resume from '../assets/resume.PDF'
+import resume from '../assets/resume.pdf'
 
 function NavTabs({ currentPage, handlePageChange }) {
     return (

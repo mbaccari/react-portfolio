@@ -17,14 +17,15 @@ function MainBio() {
                 Hey, I'm Marshall
               </p>
 
-              <p className="lead">
-                I'm a Full Stack Developer working in the Pacific Northwest.
+              <p>
+                I'm a Full Stack Developer working in Seattle, Washington
               </p>
               <p>
-                I just finished a 24 week full stack bootcamp at the University of Washington.
-              </p>
-              <p>
-                Looking forward to new opportunities in the world of Web development.
+                When I'm not working, I spend as much time as possible working
+                <br />
+                on personal coding projects, growing my knowledge and experience, and of course,
+                <br />
+                Always Improving
               </p>
             </div>
           </div>
